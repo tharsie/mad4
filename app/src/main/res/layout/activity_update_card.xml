@@ -28,8 +28,8 @@
         android:layout_marginTop="30dp"
         android:padding="15dp"
         android:background="@drawable/custom_edittetext"
-        android:textColorHint="#BFBBBB"
-        android:textColor="@color/white"
+        android:textColorHint="@color/teal_700"
+        android:textColor="@color/teal_700"
         />
 
     <EditText
@@ -40,8 +40,8 @@
         android:hint="Priority"
         android:padding="15dp"
         android:background="@drawable/custom_edittetext"
-        android:textColorHint="#BFBBBB"
-        android:textColor="@color/white"
+        android:textColorHint="@color/teal_700"
+        android:textColor="@color/teal_700"
         />
 
     <LinearLayout

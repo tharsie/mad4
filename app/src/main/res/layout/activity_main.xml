@@ -19,7 +19,8 @@
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif"
             android:text="Your Task"
-            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textColor="@color/teal_700"
             android:textSize="40sp" />
         <Button
             android:id="@+id/deleteAll"
